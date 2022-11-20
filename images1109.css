@@ -21,7 +21,7 @@
 }
 .img h2{
     position: absolute;
-    top: 40%;
+    top: 42%;
     left: 30%;
     color: #f0f8ff;
 }
@@ -32,3 +32,4 @@
     height: 100%;
     color: rgba(0,0,0,0.5);
 }
+.img img 
