@@ -24,6 +24,7 @@
     top: 42%;
     left: 30%;
     color: #f0f8ff;
+    font-size: 35px;
 }
 .img ::before{
     content: '';
